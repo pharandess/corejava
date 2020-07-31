@@ -1,6 +1,7 @@
 package com.corejava.staticexample;
 /* Example for static variable and static method
- * You can not use non static variables inside static method 
+ * You can not use non static variables inside static method
+ * asdsad 
  * */
 public class Account {
 	private String name;
